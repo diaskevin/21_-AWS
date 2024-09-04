@@ -1,9 +1,14 @@
 # 21_AWS_EC2
 
-Login to AWS to view dashboard  https://aws.amazon.com/console/
+Login to AWS to view dashboard & RDP to EC2 instance:  
+  https://aws.amazon.com/console/
+  Sign in using root user email, Root user email address d---k----@h------.com  (Google PWD manager)
   EC2 is displayed (Elastic Computing).    
-  Password: Cjk7%ZkOOfQKSI*@uKzHVN)Twzt4M?H@     (Note: For lost password, use the uploaded .PEM file in this repo, to get the password using 'Upload Private Key File' on the EC2 dashboard).
-  RDP to EC2 instance
-
+  Click Connect, click Tab 'RDP Client', Download remote desktop file.
+  In downloads folder click the xxx.rdp file
+  Note: Pwd not required if xxx.rdp 
+  If required   Password: Cjk7%ZkOOfQKSI*@uKzHVN)Twzt4M?H@     (Note: For lost password, use the uploaded .PEM file in this repo, to get the password using 'Upload Private Key File' on the EC2 dashboard).
+    
+    
 WIP: https://aws.amazon.com/route53, Amazon EC2 (Elastic computing), use AWS Management Console
 WIP: MS Azure VM instances
