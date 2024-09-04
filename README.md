@@ -6,8 +6,7 @@ Login to AWS to view dashboard & RDP to EC2 instance:
   EC2 is displayed (Elastic Computing).    
   Click Connect, click Tab 'RDP Client', Download remote desktop file.
   In downloads folder click the xxx.rdp file
-  Note: Pwd not required if xxx.rdp 
-  If required   Password: Cjk7%ZkOOfQKSI*@uKzHVN)Twzt4M?H@     (Note: For lost password, use the uploaded .PEM file in this repo, to get the password using 'Upload Private Key File' on the EC2 dashboard).
+  Password: Cjk7%ZkOOfQKSI*@uKzHVN)Twzt4M?H@     (Note: For lost password, use the uploaded .PEM file in this repo, to get the password using 'Upload Private Key File' on the EC2 dashboard).
     
     
 WIP: https://aws.amazon.com/route53, Amazon EC2 (Elastic computing), use AWS Management Console
