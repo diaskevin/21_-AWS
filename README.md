@@ -11,3 +11,8 @@ Login to AWS to view dashboard & RDP to EC2 instance:
     
 WIP: https://aws.amazon.com/route53, Amazon EC2 (Elastic computing), use AWS Management Console
 WIP: MS Azure VM instances
+
+Verify skill with AWS Cloud services like EC2, S3, Lambda, EKS
+Verify skill with C++ on Linux
+Verify skills with Java and frameworks such as Spring Boot
+Verify Hands-on experience with both SQL and NoSQL databases
